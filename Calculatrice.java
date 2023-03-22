@@ -1,5 +1,5 @@
 public class Calculatrice{
     public static void main(String[] args){
-        System.out.println("Hello Worldeeeeeee!");
+        System.out.println("Hello Worldeeeeeee! Multiplication");
     }
 }
