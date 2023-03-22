@@ -4,5 +4,7 @@ public class Calculatrice{
         System.out.println("stash test");
         System.out.println("branch !!!");
         System.out.println("branch heehoo");
+        WOAHOO test = new WOAHOO();
+        test.call();
     }
 }
